@@ -1,2 +1,2 @@
-# React_Native_VAT_Calculator
+# React-Native VAT Calculator
 Simple VAT calculator using React Native  
